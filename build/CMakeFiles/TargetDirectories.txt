@@ -1,2 +1,0 @@
-/data/home/xingonzhang/zfan2356/cuda_test/build/CMakeFiles/edit_cache.dir
-/data/home/xingonzhang/zfan2356/cuda_test/build/CMakeFiles/rebuild_cache.dir
